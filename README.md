@@ -13,3 +13,16 @@ in this page, the user will be able to click on checkboxes placed near of each i
     when this checkbox is clicked, that item will marked as completed. 
     when this checkbox is clicked, operation must be done with ajax.
 there will be a Add New To-Do button and when the user clicks on it, he will enter a simple one-line text and that text will be added to to-do list.
+
+Technology Used
+===============
+1. Python
+2. Flask --> Backend Server
+2. MongoDB --> NoSQL database
+3. MongoEngine --> ORM used to Interact with the DB
+4. Coffeescript ---> Frontend used for user interaction
+5. BootStrap ----> Frontend HTML
+
+Usage
+=====
+python Server.py
